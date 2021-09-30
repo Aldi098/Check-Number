@@ -34,3 +34,5 @@ cd Check-Number
 
 ## jalankan SC
 ```
+python phone.py
+```
